@@ -1,9 +1,8 @@
-# Ignore virtual environments
-venv/
-disaster/
-*.pyc
+dis/
 __pycache__/
+*.pyc
 *.pkl
-*.pth
 *.dll
 *.lib
+*.so
+*.DS_Store
